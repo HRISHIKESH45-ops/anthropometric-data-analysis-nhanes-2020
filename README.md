@@ -111,5 +111,3 @@ Running the notebook produces numerical summaries and visualizations, including:
 **Name:** Ahire Hrishikesh Bhaveshkumar
 **Program:** Corizo Data Science Training  
 **Project:** Capstone Project 1
-
-> Before submitting, replace `[Your Name]` with your name and confirm that the notebook runs from top to bottom in a fresh Colab session.
